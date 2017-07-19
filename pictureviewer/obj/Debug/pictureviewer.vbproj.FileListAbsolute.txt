@@ -1,0 +1,10 @@
+c:\users\manan\documents\visual studio 2013\Projects\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe.config
+c:\users\manan\documents\visual studio 2013\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Form1.resources
+c:\users\manan\documents\visual studio 2013\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Resources.resources
+c:\users\manan\documents\visual studio 2013\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.vbproj.GenerateResource.Cache
+c:\users\manan\documents\visual studio 2013\Projects\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe
+c:\users\manan\documents\visual studio 2013\Projects\pictureviewer\pictureviewer\bin\Debug\pictureviewer.pdb
+c:\users\manan\documents\visual studio 2013\Projects\pictureviewer\pictureviewer\bin\Debug\pictureviewer.xml
+c:\users\manan\documents\visual studio 2013\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.exe
+c:\users\manan\documents\visual studio 2013\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.xml
+c:\users\manan\documents\visual studio 2013\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.pdb
